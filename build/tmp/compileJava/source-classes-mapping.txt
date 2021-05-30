@@ -1,0 +1,6 @@
+ru/tcreator/NotJsonException.java
+ ru.tcreator.NotJsonException
+ru/tcreator/Pokemon.java
+ ru.tcreator.Pokemon
+ru/tcreator/Main.java
+ ru.tcreator.Main
